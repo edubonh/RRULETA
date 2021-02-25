@@ -9,74 +9,76 @@ package pkg0900.pkg17.pkg7783_ruleta;
 public class NumerosASCIIArt {
     
     public static String cero =""
-            + "\u001B[34m ___ \n"
-            + "\u001B[34m|   |\n"
-            + "\u001B[34m|   |\n"
-            + "\u001B[34m|___|\n\u001B[0m";
+            + " ___ \n"
+            + "|   |\n"
+            + "|   |\n"
+            + "|___|\n";
     
     public static String uno =""
-            + "\u001B[31m /|  \n"
-            + "\u001B[31m/ |  \n"
-            + "\u001B[31m  |  \n"
-            + "\u001B[31m _|_ \n";
+            + " /|  \n"
+            + "/ |  \n"
+            + "  |  \n"
+            + " _|_ \n";
     
     public static String dos =""
-            + "\u001B[34m ___ \n"
-            + "\u001B[34m   _|\n"
-            + "\u001B[34m _-  \n" 
-            + "\u001B[34m|____\n";
+            + " ___ \n"
+            + "   _|\n"
+            + " _-  \n" 
+            + "|____\n";
     
     
     public static String tres =""
-            + "\u001B[31m ____\n"
-            + "\u001B[31m     |\n"
-            + "\u001B[31m  ---|\n"
-            + "\u001B[31m ____|\n";
+            + "____\n"
+            + "    |\n"
+            + " ---|\n"
+            + "____|\n";
     
     public static String cuatro =""
-            + "\u001B[34m|   |\n"
-            + "\u001B[34m|___|\n"
-            + "\u001B[34m    |\n"
-            + "\u001B[34m    |\n";
+            + "|   |\n"
+            + "|___|\n"
+            + "    |\n"
+            + "    |\n";
     
     public static String cinco =""
-            + "\u001B[31m ____\n"
-            + "\u001B[31m|___ \n"
-            + "\u001B[31m    |\n"
-            + "\u001B[31m|___|\n";
+            + " ____\n"
+            + "|___ \n"
+            + "    |\n"
+            + "|___|\n";
     
     public static String seis =""
-            + "\u001B[34m ____\n"
-            + "\u001B[34m|___ \n"
-            + "\u001B[34m|   |\n"
-            + "\u001B[34m|___|\n";
+            + " ____\n"
+            + "|___ \n"
+            + "|   |\n"
+            + "|___|\n";
     
     public static String siete =""
-            + "\u001B[31m ____\n"
-            + "\u001B[31m    /\n"
-            + "\u001B[31m   / \n"
-            + "\u001B[31m  /  \n";
+            + " ____\n"
+            + "    /\n"
+            + "   / \n"
+            + "  /  \n";
         
     public static String ocho =""
-            + "\u001B[34m  ___  \n"
-            + "\u001B[34m| ╔╗ |\n"
-            + "\u001B[34m| ╚╝ |\n"
-            + "\u001B[34m| ╔╗ |\n"
-            + "\u001B[34m|_╚╝_|\n\u001B[0m";
+            + "  ___  \n"
+            + "|  _  |\n"
+            + "| |_| |\n"
+            + "|  _  |\n"
+            + "| |_| |\n"
+            + "| ___ |\n";
     
     
      public static String nueve =""
-            + "\u001B[31m  ___  \n"
-            + "\u001B[31m| ╔╗ |\n"
-            + "\u001B[31m|_╚╝ |\n"
-            + "\u001B[31m    | |\n"
-            + "\u001B[31m    |_|\n\u001B[0m";
+            + "  ___  \n"
+            + "|  _  |\n"
+            + "| |_| |\n"
+            + "|_ _  |\n"
+            + "    | |\n"
+            + "    |_|\n";
     
      public static String diez =""
-            + "\u001B[34m      ___ \n"
-            + "\u001B[34m /|  |   |\n"
-            + "\u001B[34m  |  |   |\n"
-            + "\u001B[34m _|_ |___|\n";
+            + "      ___ \n"
+            + " /|  |   |\n"
+            + "  |  |   |\n"
+            + " _|_ |___|\n";
             
     
     
